@@ -1,6 +1,14 @@
 # Week 0
 
-## Goal
+## Introduction
+
+Hi EPFers, this is Bob Liu(Akagi201).
+
+I have been working in Web3 area for many years. I am focused on Web3 infras and MEV/HFT trading.
+
+## EPF Goal
+
+There are many and increasing EVM chains, and they many have different roadmap and unique features. What I want to do is to decode the diff and benchmarks of different EVM execution clients. I think it's both valuable for Core developers and Application developers.
 
 I want to do more deep researches on the ETH Execution Layer, and contribute to Reth/Revm's repo.
 
